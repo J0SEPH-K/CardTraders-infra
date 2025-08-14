@@ -1,2 +1,4 @@
 # CardTraders Infra
-CI/CD, database schema, and automation under `/infra`.
+- DB schema under `infra/db/schema.sql`
+- CI templates under `infra/github/workflows`
+- Dev helper scripts under `infra/scripts`
