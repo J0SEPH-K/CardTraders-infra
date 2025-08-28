@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "/Users/jungjunkim/Projects/CardTraders/.venv/bin/python",
+  "python.analysis.extraPaths": [
+    "infra/scripts"
+  ]
+}
